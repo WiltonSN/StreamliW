@@ -1,8 +1,10 @@
+pip install matplotlib
+
 import pandas as pd
 import streamlit as st
 #import seaborn as sns
 import matplotlib.pyplot as plt
-import altair as alt
+#import altair as alt
 
 
 #st.title('Imoveis para Alugar no Brasil')
