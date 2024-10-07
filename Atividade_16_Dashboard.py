@@ -32,7 +32,7 @@ def carregar_dados (caminho_arquivo):
     return dados
 
 # Carregando os dados
-df = carregar_dados('/workspaces/StreamliW/houses_to_rent_v2.csv')
+df = carregar_dados('houses_to_rent_v2.csv')
 
 #--------------------------------------------
 # Exibir o valor médio do aluguel
